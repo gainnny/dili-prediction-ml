@@ -1,0 +1,4 @@
+model,true_negative,false_positive,false_negative,true_positive
+Random Forest (100 trees),30,62,29,118
+LightGBM,33,59,32,115
+"Random Forest (200 trees, depth 10, min split 5)",16,76,5,142
